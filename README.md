@@ -18,19 +18,27 @@
 </div>
 
 
+Here’s a refined **“About Me”** section based on your resume, keeping your given format but making it stronger and more professional for your GateHub homepage:
+
+
 ## 🧑‍💻 About Me
 
-Hi, I'm Akanksha Kumari, a Data Science student who loves working with data. I enjoy building data-driven systems and exploring how mathematics, statistics, and AI can be used to solve real-world problems.
+Hi, I'm Akanksha Kumari, a Master's student in Computer Applications with a background in Physics and a growing passion for data-driven technologies. I enjoy learning new concepts and applying programming, logic, and analytical thinking to solve real-world problems.
 
-My academic background in mathematics has naturally led me toward areas such as <b>Machine Learning, Statistical Modeling, Graph Theory, and Agentic AI systems</b>. I am particularly interested in designing intelligent systems that can transform complex data into meaningful insights and practical applications.
+My academic journey from physics to computer applications has helped me develop a strong foundation in problem-solving, logical reasoning, and computational thinking. I am particularly interested in areas such as <b>Data Analysis, Machine Learning, and Intelligent Systems</b>, where I can combine my technical skills with analytical approaches to build meaningful solutions.
 
-- **Quantitative Finance** – Statistical Arbitrage, Portfolio Optimization, Time Series Modeling 
-- **Agentic AI & LLM Engineering** – AI Agents, Agentic AI, RAG pipelines, LangGraph  
-- **Machine Learning & AI Systems** – Predictive Modeling, Deep Learning, LLM Applications
-- **Mathematical Modeling** – Graph Theory, Statistical Inference, Optimization
-- **Programming & Technical Tools** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly), R, SQL, LaTeX
-- **Core Competencies** - Data Analysis, Predictive Modeling, Quantitative Research, Statistical Inference, Problem Solving
-- **Tools and Platforms** -Jupyter Notebook, Git & GitHub, Streamlit, R-Shiny, Microsoft Office (Excel, Word, PowerPoint)
+* **Programming & Development** – C, Java, Python
+* **Database Management** – MySQL, SQL Server
+* **Core Areas of Interest** – Data Analysis, Machine Learning, Problem Solving
+* **Mathematical & Analytical Skills** – Logical Reasoning, Quantitative Thinking
+* **Soft Skills** – Time Management, Adaptability, Continuous Learning
+* **Tools & Platforms** – Jupyter Notebook, GitHub (learning phase), Microsoft Office
+
+I am a motivated learner who believes in continuous growth, discipline, and dedication. I aim to build a strong career in the tech field by constantly upgrading my skills and contributing to impactful projects.
+
 
 ## 🔭 Current Focus
-Exploring world of finance especially intersection of quantitative finance and machine learning, focusing on topics like time series modeling, portfolio optimization, and statistical arbitrage. My current work involves developing quantitative research projects that apply statistical methods and machine learning to financial markets, including strategies for portfolio construction, risk analysis, and market signal generation.
+
+Currently, I am focusing on strengthening my programming skills and exploring the fundamentals of **data science and machine learning**. I am working on improving my understanding of Python, databases, and analytical techniques, while gradually building projects that enhance my practical knowledge and problem-solving ability.
+
+
